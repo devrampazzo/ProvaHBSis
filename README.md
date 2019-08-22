@@ -1,4 +1,4 @@
 # ProvaHBSis
 Prova HBSIS
 Realizada por Felipe Rampazzo Farias. 
-Configurar connection string para instância local do banco de dados antes de começar (projeto WebApi).
+Configurar connection string para instância local do SQL Server antes de começar (projeto WebApi). A base de dados será criada automaticamente ao executar o sistema.
