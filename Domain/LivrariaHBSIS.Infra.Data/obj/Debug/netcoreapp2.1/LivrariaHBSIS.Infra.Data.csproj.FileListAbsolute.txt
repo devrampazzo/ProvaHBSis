@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.deps.json
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.dll
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.pdb
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.dll
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.pdb
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.csproj.CopyComplete
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.dll
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Infra.Data\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Infra.Data.pdb

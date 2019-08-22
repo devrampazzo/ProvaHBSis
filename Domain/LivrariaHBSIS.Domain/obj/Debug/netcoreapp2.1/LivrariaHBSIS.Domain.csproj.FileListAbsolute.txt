@@ -1,0 +1,9 @@
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.deps.json
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.dll
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\bin\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.pdb
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.dll
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.pdb
+C:\Users\Felipe\source\repos\ProvaHBSis\Domain\LivrariaHBSIS.Domain\obj\Debug\netcoreapp2.1\LivrariaHBSIS.Domain.csprojAssemblyReference.cache

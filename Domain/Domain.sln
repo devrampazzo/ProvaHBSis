@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - LivrariaHBSIS.Presentation", "0 - LivrariaHBSIS.Presentation", "{3D6B7886-CE10-4F24-ADCC-FE2349646ABA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - LivrariaHBSIS.Application", "1 - LivrariaHBSIS.Application", "{71C924C0-0721-42D6-A391-B98254F88E5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - LivrariaHBSIS.Domain", "2 - LivrariaHBSIS.Domain", "{B6AE6599-0D5D-49D0-B491-A24F302CE5D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - LivrariaHBSIS.Infra", "3 - LivrariaHBSIS.Infra", "{644555F6-4BDD-450D-BB16-00627D5D6558}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaHBSIS.Infra.Data", "LivrariaHBSIS.Infra.Data\LivrariaHBSIS.Infra.Data.csproj", "{33AAC1C7-D236-41C7-9CE4-A7B7305F5779}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaHBSIS.Domain", "LivrariaHBSIS.Domain\LivrariaHBSIS.Domain.csproj", "{87E390A9-E99F-497A-993C-F7AA43CACFB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaHBSIS.Application.WebApi", "LivrariaHBSIS.WebApi\LivrariaHBSIS.Application.WebApi.csproj", "{57833863-AE75-4DC7-AF91-37E6E5BFA621}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - LivrariaHBSIS.Tests", "4 - LivrariaHBSIS.Tests", "{9027D797-5F40-4D57-9950-01B50C5185CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaHBSIS.Tests", "LivrariaHBSIS.Tests\LivrariaHBSIS.Tests.csproj", "{FA1EAC8B-67AA-4A6A-9DB1-B4DBE19B795F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ui-spa", "ui-spa\", "{83B994F3-8A59-422A-A19A-2E1565C94368}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53740"
+		Debug.AspNetCompiler.PhysicalPath = "ui-spa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53740\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53740"
+		Release.AspNetCompiler.PhysicalPath = "ui-spa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53740\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53740"
+		SlnRelativePath = "ui-spa\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AAC1C7-D236-41C7-9CE4-A7B7305F5779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AAC1C7-D236-41C7-9CE4-A7B7305F5779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AAC1C7-D236-41C7-9CE4-A7B7305F5779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AAC1C7-D236-41C7-9CE4-A7B7305F5779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E390A9-E99F-497A-993C-F7AA43CACFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E390A9-E99F-497A-993C-F7AA43CACFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E390A9-E99F-497A-993C-F7AA43CACFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E390A9-E99F-497A-993C-F7AA43CACFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57833863-AE75-4DC7-AF91-37E6E5BFA621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57833863-AE75-4DC7-AF91-37E6E5BFA621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57833863-AE75-4DC7-AF91-37E6E5BFA621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57833863-AE75-4DC7-AF91-37E6E5BFA621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1EAC8B-67AA-4A6A-9DB1-B4DBE19B795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EAC8B-67AA-4A6A-9DB1-B4DBE19B795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EAC8B-67AA-4A6A-9DB1-B4DBE19B795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EAC8B-67AA-4A6A-9DB1-B4DBE19B795F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B994F3-8A59-422A-A19A-2E1565C94368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B994F3-8A59-422A-A19A-2E1565C94368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B994F3-8A59-422A-A19A-2E1565C94368}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B994F3-8A59-422A-A19A-2E1565C94368}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33AAC1C7-D236-41C7-9CE4-A7B7305F5779} = {644555F6-4BDD-450D-BB16-00627D5D6558}
+		{87E390A9-E99F-497A-993C-F7AA43CACFB0} = {B6AE6599-0D5D-49D0-B491-A24F302CE5D3}
+		{57833863-AE75-4DC7-AF91-37E6E5BFA621} = {71C924C0-0721-42D6-A391-B98254F88E5F}
+		{FA1EAC8B-67AA-4A6A-9DB1-B4DBE19B795F} = {9027D797-5F40-4D57-9950-01B50C5185CD}
+		{83B994F3-8A59-422A-A19A-2E1565C94368} = {3D6B7886-CE10-4F24-ADCC-FE2349646ABA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E894EF-A9E8-4B62-8207-22C100AD13C5}
+	EndGlobalSection
+EndGlobal
